@@ -1,7 +1,9 @@
  # "ChoreoMaster: Choreography -Oriented Music Driven Dance Synthesis"
+ 
+ <img src='https://netease-gameai.github.io/ChoreoMaster/images/choreo_teaser.png'>
+ 
 ## 1. Description
-
- To facilitate further research in this area, we release the copyright-free portion of our paired music/motion [dataset](https://drive.google.com/file/d/1R5MYYy4PSkLoifFzmCwPn9dBp8DVshxV/view?usp=sharing) (1.48 hours out of 9.91 hours).  It contains 2708 dance motion meters (the motion unit used to construct motion graph), all paired with music clips and labels, with a total frame count of 160136 sampled at 30 fps.
+ To facilitate further research in this area, we release the copyright-free portion of our [paired music/motion dataset](https://drive.google.com/file/d/1R5MYYy4PSkLoifFzmCwPn9dBp8DVshxV/view?usp=sharing) (1.48 hours out of 9.91 hours).  It contains 2708 dance motion meters (the motion unit used to construct motion graph), all paired with music clips and labels, with a total frame count of 160136 sampled at 30 fps.
 
 The motion, music and label files are respectively stored in three folders ("label_json", "motion_fbx", "music_clip") with the same prefix name. All the motion files are saved as .fbx format and we also provide a T-pos model file.
 
